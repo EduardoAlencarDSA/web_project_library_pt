@@ -405,6 +405,10 @@
   margin-bottom: 16px;
 }
 
+.footer__copyright {
+  text-align: left;
+}
+
 .footer__copyright_text {
   margin: 100px 0 0 0;
 }
